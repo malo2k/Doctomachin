@@ -1,4 +1,4 @@
-# Exercice THP du 24 Octobre par Malo
+# Exercice THP du 25 Octobre par Malo
 
 ## Pair-programming avec la team Rennaise
 
